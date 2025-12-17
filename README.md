@@ -60,6 +60,8 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 ---
 
 ## 🚀 Outcomes
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7e7996ac-d85c-42f3-bf20-d2d52525067d" />
+
 
 * Delivered a **data-driven dashboard** for Blinkit’s retail operations.
 * Enabled **real-time decision-making** through interactive visuals.
