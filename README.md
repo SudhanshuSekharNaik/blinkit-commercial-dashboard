@@ -81,6 +81,3 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 
 ![Blinkit Dashboard](Screenshot%202025-10-15%20112011.png)
 
-
-* Add **forecasting models** for sales prediction.
-* Include **customer segmentation analysis** for targeou like me to make a **shorter GitHub-style summary version (5–6 lines)** or keep this **detailed professional format** for recruiters?
